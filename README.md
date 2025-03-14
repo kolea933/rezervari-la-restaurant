@@ -32,7 +32,7 @@ Scopul acestui proiect este de a exersa utilizarea moștenirii în C++ și de a 
 - RezervareZilnica
 - RezervareEvenimentSpecial
 - RezervareGrupMare
-- RezervareVIP 
+- RezervareVIP
 ✔️ Metode virtuale și suprascriere  
 ✔️ Calculul tarifelor în funcție de numărul de persoane  
 ✔️ Citirea din fișier și stocarea în vector de pointeri  
