@@ -27,13 +27,13 @@ Scopul acestui proiect este de a exersa utilizarea moștenirii în C++ și de a 
 
 ## 📌 Cerințe implementate
 
-✔️ Clasă de bază `Rezervare`  
-✔️ Clase derivate pentru:
-- RezervareZilnica
-- RezervareEvenimentSpecial
-- RezervareGrupMare
-- RezervareVIP
-  -✔️ Metode virtuale și suprascriere  
-  -✔️ Calculul tarifelor în funcție de numărul de persoane  
-  -✔️ Citirea din fișier și stocarea în vector de pointeri  
-  -✔️ Afișarea detaliilor rezervărilor și a prețului total
+- ✅ **Clasă de bază:** `Rezervare`
+- ✅ **Clase derivate pentru:**
+  - `RezervareZilnica`
+  - `RezervareEvenimentSpecial`
+  - `RezervareGrupMare`
+  - `RezervareVIP`
+    - ✅ Metode virtuale și suprascriere
+    - ✅ Calculul tarifelor în funcție de numărul de persoane
+- ✅ Citirea din fișier și stocarea în vector de pointeri
+- ✅ Afișarea detaliilor rezervărilor și a prețului total
