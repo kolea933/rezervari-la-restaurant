@@ -17,7 +17,7 @@ Fiecare rezervare conține informații despre:
 
 ## 🧠 Scopul proiectului
 
-Scopul acestui proiect este de a exersa utilizarea moștenirii în C++ și de a organiza datele folosind clase de bază și clase derivate.
+Scopul acestui proiect este de a exersa utilizarea moștenirii în C++ și de a organiza datele folosind clase de bază și clase derivate pentru a inbunatatii abilitatiile de programare.
 
 ## 📁 Structura fișierelor
 
